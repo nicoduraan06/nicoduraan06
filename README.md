@@ -11,15 +11,23 @@ Soy un estudiante apasionado por el desarrollo web y la tecnología. Actualmente
 
 ## 🧠 Tecnologías
 
-HTML | CSS | JavaScript | MySQL | Git | GitHub | PHP
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicoduraan06&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicoduraan06&show_icons=true&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicoduraan06&layout=compact&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=nicoduraan06&color=blue)
 
 ---
 
@@ -39,10 +47,17 @@ Proyecto final enfocado en el desarrollo de una aplicación web completa aplican
 
 ---
 
+## 📚 Actualmente aprendiendo
+
+- Desarrollo de aplicaciones web más complejas  
+- Buenas prácticas de desarrollo  
+- Automatización de procesos en empresas  
+- Bases para especializarme en **Inteligencia Artificial**
+
+---
+
 ## 📫 Contacto
 
-📧 Email: nicolasdu2006@gmail.com
+📧 Email: nicolasdu2006@gmail.com  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Dur%C3%A1n-blue?logo=linkedin)](https://www.linkedin.com/in/nicolás-durán-rodríguez-32104435a)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Dur%C3%A1n-blue?logo=linkedin)](https://www.linkedin.com/in/nicol%C3%A1s-dur%C3%A1n-rodr%C3%ADguez-32104435a)
