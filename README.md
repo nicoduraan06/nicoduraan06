@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Nicolás Durán
 
-<!--
-**nicoduraan06/nicoduraan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web en formación  
+📍 Sevilla, España  
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+🚀 Futuro estudiante de Ingeniería Informática / Inteligencia Artificial  
 
-Here are some ideas to get you started:
+Soy un estudiante apasionado por el desarrollo web y la tecnología. Actualmente estoy finalizando mi formación en Desarrollo de Aplicaciones Web y realizando prácticas en empresa, donde participo en proyectos reales de desarrollo y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías
+
+HTML | CSS | JavaScript | MySQL | Git | GitHub
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoduraan06&show_icons=true&theme=tokyonight)
+
+---
+
+## 📌 Proyectos Destacados
+
+🔹 **Automatización de correos empresariales**  
+Aplicación desarrollada durante mis prácticas para automatizar el envío masivo de correos electrónicos en procesos de circularización, facilitando el trabajo del equipo y optimizando el tiempo de gestión.
+
+🔹 **Proyecto de Gestión Web (DAW)**  
+Aplicación web desarrollada durante el grado para gestionar usuarios, datos y funcionalidades dinámicas conectadas a base de datos MySQL.
+
+🔹 **Aplicación CRUD con Base de Datos**  
+Proyecto académico centrado en operaciones CRUD completas (crear, leer, actualizar y eliminar) utilizando JavaScript y MySQL.
+
+🔹 **Trabajo Final de Grado (TFG)**  
+Proyecto final enfocado en el desarrollo de una aplicación web completa aplicando buenas prácticas de desarrollo, estructura de proyecto y conexión con base de datos.
+
+---
+
+## 📫 Contacto
+
+📧 Email: nicolasdu2006@gmail.com
