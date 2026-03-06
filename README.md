@@ -17,9 +17,9 @@ HTML | CSS | JavaScript | MySQL | Git | GitHub | PHP
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoduraan06&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoduraan06&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoduraan06&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoduraan06&layout=compact&theme=radical)
 
 ---
 
