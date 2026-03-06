@@ -11,7 +11,7 @@ Soy un estudiante apasionado por el desarrollo web y la tecnología. Actualmente
 
 ## 🧠 Tecnologías
 
-HTML | CSS | JavaScript | MySQL | Git | GitHub
+HTML | CSS | JavaScript | MySQL | Git | GitHub | PHP
 
 ---
 
