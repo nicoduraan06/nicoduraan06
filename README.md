@@ -26,7 +26,7 @@ HTML | CSS | JavaScript | MySQL | Git | GitHub | PHP
 ## 📌 Proyectos Destacados
 
 🔹 **Automatización de correos empresariales**  
-Aplicación desarrollada durante mis prácticas para automatizar el envío masivo de correos electrónicos en procesos de circularización, facilitando el trabajo del equipo y optimizando el tiempo de gestión. *(Repositorio privado actualmente)*
+Aplicación desarrollada durante mis prácticas para automatizar el envío masivo de correos electrónicos en procesos de circularización, facilitando el trabajo del equipo y optimizando el tiempo de gestión.
 
 🔹 **Proyecto de Gestión Web (DAW)**  
 Aplicación web desarrollada durante el grado para gestionar usuarios, datos y funcionalidades dinámicas conectadas a base de datos MySQL.
