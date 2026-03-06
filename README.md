@@ -19,18 +19,20 @@ HTML | CSS | JavaScript | MySQL | Git | GitHub | PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoduraan06&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoduraan06&layout=compact)
+
 ---
 
 ## 📌 Proyectos Destacados
 
 🔹 **Automatización de correos empresariales**  
-Aplicación desarrollada durante mis prácticas para automatizar el envío masivo de correos electrónicos en procesos de circularización, facilitando el trabajo del equipo y optimizando el tiempo de gestión.
+Aplicación desarrollada durante mis prácticas para automatizar el envío masivo de correos electrónicos en procesos de circularización, facilitando el trabajo del equipo y optimizando el tiempo de gestión. *(Repositorio privado actualmente)*
 
 🔹 **Proyecto de Gestión Web (DAW)**  
 Aplicación web desarrollada durante el grado para gestionar usuarios, datos y funcionalidades dinámicas conectadas a base de datos MySQL.
 
 🔹 **Aplicación CRUD con Base de Datos**  
-Proyecto académico centrado en operaciones CRUD completas (crear, leer, actualizar y eliminar) utilizando JavaScript y MySQL.
+Proyecto académico centrado en operaciones CRUD completas (crear, leer, actualizar y eliminar) utilizando PHP, JavaScript y MySQL.
 
 🔹 **Trabajo Final de Grado (TFG)**  
 Proyecto final enfocado en el desarrollo de una aplicación web completa aplicando buenas prácticas de desarrollo, estructura de proyecto y conexión con base de datos.
