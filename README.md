@@ -11,13 +11,21 @@ Soy un estudiante apasionado por el desarrollo web y la tecnología. Actualmente
 
 ## 🧠 Tecnologías
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
 ---
 
