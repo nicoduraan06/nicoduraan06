@@ -41,4 +41,5 @@ Proyecto final enfocado en el desarrollo de una aplicación web completa aplican
 
 ## 📫 Contacto
 
-📧 Email: nicolasdu2006@gmail.com
+📧 Email: nicolasdu2006@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Dur%C3%A1n-blue?logo=linkedin)](https://www.linkedin.com/in/nicolás-durán-rodríguez-32104435a)
